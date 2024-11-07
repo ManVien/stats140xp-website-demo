@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 86704aa1-abcb-4de5-8f03-074c1b7e4c47
+      url: 'https://chimerical-blancmange-dc7b11.netlify.app'
