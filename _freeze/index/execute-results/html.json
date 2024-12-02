@@ -1,0 +1,15 @@
+{
+  "hash": "7963909d2ee4f8b495fc4cdcbea7bf5a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Mandy Vien\"\nabout:\n  template: jolla\n  image: Vien, Nhu_Professional Photo.jpg\n  links: \n    - icon: github\n      text: Github\n      href: https://github.com/ManVien\n    - icon: linkedin\n      text: LinkedIn\n      href: https://www.linkedin.com/in/mandy-vien\n    - text: Email\n      url: \"mailto:manvien97@g.ucla.edu\"\n    - text: Resume\n      url: \"resume.pdf\"\n---\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 3\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

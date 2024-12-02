@@ -1,13 +1,21 @@
 project:
   type: website
+  resources:
+    - resume.pdf
 
 website:
-  title: "personal-website"
+  title: "Mandy Vien"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: research.qmd
+        text: Research
+        
+  page-footer:
+    right: "&copy; 2024, Mandy Vien"
 
 format:
   html:
@@ -15,5 +23,7 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+execute: 
+  freeze: auto 
 
+editor: visual

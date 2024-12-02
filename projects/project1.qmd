@@ -1,0 +1,8 @@
+---
+title: Project 1
+image: images/heatmap.png
+---
+
+```{r}
+rnorm(30)
+```

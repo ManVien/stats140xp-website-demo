@@ -1,5 +1,19 @@
 ---
 title: "Mandy Vien"
+about:
+  template: jolla
+  image: Vien, Nhu_Professional Photo.jpg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/ManVien
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mandy-vien
+    - text: Email
+      url: "mailto:manvien97@g.ucla.edu"
+    - text: Resume
+      url: "resume.pdf"
 ---
 
 This is a Quarto website.
