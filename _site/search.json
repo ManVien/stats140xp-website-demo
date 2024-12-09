@@ -1,30 +1,79 @@
 [
   {
-    "objectID": "projects/project1.html",
-    "href": "projects/project1.html",
-    "title": "Project 1",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Mandy Vien",
     "section": "",
-    "text": "rnorm(30)\n\n [1]  0.56802233  0.79278065 -1.45547451 -0.48865179  0.63295080  1.00928194\n [7] -1.03476811  0.02563397 -0.74445130  0.01370332 -0.41346390  1.00729658\n[13]  3.09768755  0.69469006 -1.43879001  1.40430112  1.03584357  0.10707565\n[19] -0.55052784 -1.71017440  1.13777914  0.25816458  1.30675594 -0.45234170\n[25] -0.27002122 -0.72842385  0.15081407  1.19605260 -0.48973399  1.35189710"
+    "text": "The Effect of User Characteristics on Immersion Levels in Virtual Reality\n\n\n\n\n\n\n\n\n\n\n\n\n\nUber Fare Prediction\n\n\n\n\n\n\n\n\n\n\n\n\n\nCalifornia Fiscal Health\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project2.html",
+    "href": "projects/project2.html",
+    "title": "Uber Fare Prediction",
+    "section": "",
+    "text": "This study investigated the prediction of Uber fare using machine learning. Using a dataset of ride information, including pickup/dropoff coordinates, timestamps, and passenger counts, I developed feature engineering techniques to extract meaningful variables such as trip distance (calculated via the Haversine formula) and temporal patterns. A comparative analysis of Linear Regression, Lasso, Decision Trees, Random Forest, K-Nearest Neighbors, and Gradient Boosting models through cross-validation showed that Gradient Boosting performed most effectively, achieving an RMSE of 3.83. Feature importance revealed trip distance as the dominant factor in determining fares, while the number of passenger demonstrated minimal influence. This analysis provided valuable insights into the application of machine learning in ride-sharing services and the key factors affecting fares.\nClick here to explore the detailed research."
+  },
+  {
+    "objectID": "projects/project2.html#abstract",
+    "href": "projects/project2.html#abstract",
+    "title": "Uber Fare Prediction",
+    "section": "",
+    "text": "This study investigated the prediction of Uber fare using machine learning. Using a dataset of ride information, including pickup/dropoff coordinates, timestamps, and passenger counts, I developed feature engineering techniques to extract meaningful variables such as trip distance (calculated via the Haversine formula) and temporal patterns. A comparative analysis of Linear Regression, Lasso, Decision Trees, Random Forest, K-Nearest Neighbors, and Gradient Boosting models through cross-validation showed that Gradient Boosting performed most effectively, achieving an RMSE of 3.83. Feature importance revealed trip distance as the dominant factor in determining fares, while the number of passenger demonstrated minimal influence. This analysis provided valuable insights into the application of machine learning in ride-sharing services and the key factors affecting fares.\nClick here to explore the detailed research."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Mandy Vien",
+    "section": "",
+    "text": "Relevant Courses:\n\nSTATS 100A Introduction to Probability\nSTATS 100B Introduction to Mathematical Statistics\nSTATS 101A Introduction to Data Analysis and Regression\nSTATS 101B Introduction to Design and Analysis of Experiment\nSTATS 101C Introduction to Statistical Models and Data Mining\nSTATS 102A Introduction to Computational Statistics with R\nSTATS 102B Introduction to Computation and Optimization for Statistics\nSTATS 102C Introduction to Monte Carlo Methods\nSTATS 140XP Practice of Statistical Consulting"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mandy Vien",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n  \n    \n     Resume\n  \n\n  \n  \nI am currently a senior at University of California, Los Angeles (UCLA) majoring in Statistics & Data Science with a minor in Digital Humanities. As a Break Through Tech Fellow, I’ve honed my machine learning skills through Cornell’s certification program while applying this knowledge to impactful projects. My research experience spans from developing AI chatbots for health applications at The Root Remedy to analyzing virtual reality user experiences at CSUF, reflecting my commitment to innovating at the intersection of AI and human-centered technology.\n\n\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S., Major in Statistics and Data Science, Minor in Digital Humanities | June 2025\nBreak Through Tech at Cornell Tech | Remote\nCertificate in Machine Learning Foundations (eCornell) | May 2024 – August 2024\n\n\n\nThe Root Remedy | AI Studio Fellow | August 2024 – December 2024\nCalifornia State University, Fullerton (CSUF) – Project RAISE | Undergraduate Research Experience Participant | June 2023 – August 2023"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Mandy Vien",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "University of California, Los Angeles | Los Angeles, CA\nB.S., Major in Statistics and Data Science, Minor in Digital Humanities | June 2025\nBreak Through Tech at Cornell Tech | Remote\nCertificate in Machine Learning Foundations (eCornell) | May 2024 – August 2024"
   },
   {
-    "objectID": "projects.html#new-heading-2",
-    "href": "projects.html#new-heading-2",
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
     "title": "Mandy Vien",
-    "section": "New Heading 2",
-    "text": "New Heading 2\nadd text"
+    "section": "",
+    "text": "The Root Remedy | AI Studio Fellow | August 2024 – December 2024\nCalifornia State University, Fullerton (CSUF) – Project RAISE | Undergraduate Research Experience Participant | June 2023 – August 2023"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "The Effect of User Characteristics on Immersion Levels in Virtual Reality",
+    "section": "",
+    "text": "This study investigated the factors influencing user immersion levels in virtual reality (VR) experiences through statistical analysis and machine learning approaches. Using a dataset containing user demographics (age, gender), technical specifications (VR headset type), session characteristics (duration), and physiological responses (motion sickness), I aimed to predict and understand user immersion levels in virtual environments. After conducting exploratory data analysis and preprocessing in Python using Jupyter Notebook, I implemented multiple machine learning algorithms including logistic regression, k-nearest neighbors, and random forest classifiers. Model evaluation revealed varying levels of predictive performance, with each algorithm demonstrating distinct strengths and limitations in capturing the complex relationships between features and immersion levels. Visualization of model accuracies highlighted the comparative performance across different approaches. While my analysis provided initial insights into VR user experience factors, the results suggested that a more comprehensive dataset would be beneficial for robust predictions and generalized conclusions about VR immersion patterns. This study contributed to the growing body of research on quantifying and predicting user experiences in virtual reality environments.\nClick here to explore the detailed research."
+  },
+  {
+    "objectID": "projects/project1.html#abstract",
+    "href": "projects/project1.html#abstract",
+    "title": "The Effect of User Characteristics on Immersion Levels in Virtual Reality",
+    "section": "",
+    "text": "This study investigated the factors influencing user immersion levels in virtual reality (VR) experiences through statistical analysis and machine learning approaches. Using a dataset containing user demographics (age, gender), technical specifications (VR headset type), session characteristics (duration), and physiological responses (motion sickness), I aimed to predict and understand user immersion levels in virtual environments. After conducting exploratory data analysis and preprocessing in Python using Jupyter Notebook, I implemented multiple machine learning algorithms including logistic regression, k-nearest neighbors, and random forest classifiers. Model evaluation revealed varying levels of predictive performance, with each algorithm demonstrating distinct strengths and limitations in capturing the complex relationships between features and immersion levels. Visualization of model accuracies highlighted the comparative performance across different approaches. While my analysis provided initial insights into VR user experience factors, the results suggested that a more comprehensive dataset would be beneficial for robust predictions and generalized conclusions about VR immersion patterns. This study contributed to the growing body of research on quantifying and predicting user experiences in virtual reality environments.\nClick here to explore the detailed research."
+  },
+  {
+    "objectID": "projects/project3.html",
+    "href": "projects/project3.html",
+    "title": "California Fiscal Health",
+    "section": "",
+    "text": "In this project, we investigated how different factors affect the fiscal health of California cities by analyzing data from the California State Auditor’s Office from 2016 to 2020. Our dataset included various risk indicators like pension obligations, revenue trends, and liquidity metrics that help identify financially troubled cities. After cleaning and exploring our data in Python, we ran several statistical tests to understand the relationships between different risk factors. One of the most interesting findings was that pension obligations had a significant connection to a city’s overall financial risk - definitely something to consider for future city planning. We also built an XGBoost model that achieved about 89% accuracy in predicting a city’s risk level, outperforming the traditional random forest approach. While our model worked pretty well, especially for identifying moderate-risk cities (the F1-score for high-risk cities was around 0.83), it also revealed that debt burden and liquidity risks were super important predictors of a city’s financial health. Our analysis provides useful insights for California cities to better manage their finances and avoid fiscal distress.\nClick here to explore the detailed research."
+  },
+  {
+    "objectID": "projects/project3.html#abstract",
+    "href": "projects/project3.html#abstract",
+    "title": "California Fiscal Health",
+    "section": "",
+    "text": "In this project, we investigated how different factors affect the fiscal health of California cities by analyzing data from the California State Auditor’s Office from 2016 to 2020. Our dataset included various risk indicators like pension obligations, revenue trends, and liquidity metrics that help identify financially troubled cities. After cleaning and exploring our data in Python, we ran several statistical tests to understand the relationships between different risk factors. One of the most interesting findings was that pension obligations had a significant connection to a city’s overall financial risk - definitely something to consider for future city planning. We also built an XGBoost model that achieved about 89% accuracy in predicting a city’s risk level, outperforming the traditional random forest approach. While our model worked pretty well, especially for identifying moderate-risk cities (the F1-score for high-risk cities was around 0.83), it also revealed that debt burden and liquidity risks were super important predictors of a city’s financial health. Our analysis provides useful insights for California cities to better manage their finances and avoid fiscal distress.\nClick here to explore the detailed research."
   }
 ]

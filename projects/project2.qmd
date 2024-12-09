@@ -1,0 +1,11 @@
+---
+title: Uber Fare Prediction
+image: uber fare.png
+toc: false
+---
+
+## Abstract
+
+This study investigated the prediction of Uber fare using machine learning. Using a dataset of ride information, including pickup/dropoff coordinates, timestamps, and passenger counts, I developed feature engineering techniques to extract meaningful variables such as trip distance (calculated via the Haversine formula) and temporal patterns. A comparative analysis of Linear Regression, Lasso, Decision Trees, Random Forest, K-Nearest Neighbors, and Gradient Boosting models through cross-validation showed that Gradient Boosting performed most effectively, achieving an RMSE of 3.83. Feature importance revealed trip distance as the dominant factor in determining fares, while the number of passenger demonstrated minimal influence. This analysis provided valuable insights into the application of machine learning in ride-sharing services and the key factors affecting fares.
+
+Click [here](https://github.com/ManVien/Uber-Fare-Prediction-2024) to explore the detailed research. 

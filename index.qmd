@@ -1,25 +1,46 @@
 ---
 title: "Mandy Vien"
 about:
-  template: jolla
+  id: hero-heading
+  template: trestles
   image: Vien, Nhu_Professional Photo.jpg
+  image-width: 10em
+  image-shape: round
   links: 
-    - icon: github
-      text: Github
-      href: https://github.com/ManVien
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/mandy-vien
-    - text: Email
+    - icon: github
+      text: Github
+      href: https://github.com/ManVien
+    - icon: inbox-fill
+      text: Email
       url: "mailto:manvien97@g.ucla.edu"
-    - text: Resume
+    - icon: file-text
+      text: Resume
       url: "resume.pdf"
+     
+toc: false
 ---
 
-This is a Quarto website.
+:::{#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am currently a senior at University of California, Los Angeles (UCLA) majoring in Statistics & Data Science with a minor in Digital Humanities. As a Break Through Tech Fellow, I've honed my machine learning skills through Cornell's certification program while applying this knowledge to impactful projects. My research experience spans from developing AI chatbots for health applications at The Root Remedy to analyzing virtual reality user experiences at CSUF, reflecting my commitment to innovating at the intersection of AI and human-centered technology.
 
-```{r}
-1 + 3
-```
+## Education
+
+**University of California, Los Angeles** | Los Angeles, CA  
+
+B.S., Major in Statistics and Data Science, Minor in Digital Humanities | June 2025
+
+**Break Through Tech at Cornell Tech** | Remote  
+
+Certificate in Machine Learning Foundations (eCornell) | May 2024 – August 2024
+
+## Professional Experience
+
+**The Root Remedy** | AI Studio Fellow | August 2024 – December 2024 
+
+**California State University, Fullerton (CSUF) – Project RAISE** | Undergraduate Research Experience Participant | June 2023 – August 2023
+
+:::

@@ -1,0 +1,11 @@
+---
+title: California Fiscal Health
+image: california fiscal health.jpg
+toc: false
+---
+
+## Abstract
+
+In this project, we investigated how different factors affect the fiscal health of California cities by analyzing data from the California State Auditor's Office from 2016 to 2020. Our dataset included various risk indicators like pension obligations, revenue trends, and liquidity metrics that help identify financially troubled cities. After cleaning and exploring our data in Python, we ran several statistical tests to understand the relationships between different risk factors. One of the most interesting findings was that pension obligations had a significant connection to a city's overall financial risk - definitely something to consider for future city planning. We also built an XGBoost model that achieved about 89% accuracy in predicting a city's risk level, outperforming the traditional random forest approach. While our model worked pretty well, especially for identifying moderate-risk cities (the F1-score for high-risk cities was around 0.83), it also revealed that debt burden and liquidity risks were super important predictors of a city's financial health. Our analysis provides useful insights for California cities to better manage their finances and avoid fiscal distress.
+
+Click [here](/projects/California Fiscal Health Poster.pdf) to explore the detailed research. 

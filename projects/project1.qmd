@@ -1,8 +1,12 @@
 ---
-title: Project 1
-image: images/heatmap.png
+title: The Effect of User Characteristics on Immersion Levels in Virtual Reality
+image: virtual reality.png
+toc: false
 ---
 
-```{r}
-rnorm(30)
-```
+## Abstract
+
+This study investigated the factors influencing user immersion levels in virtual reality (VR) experiences through statistical analysis and machine learning approaches. Using a dataset containing user demographics (age, gender), technical specifications (VR headset type), session characteristics (duration), and physiological responses (motion sickness), I aimed to predict and understand user immersion levels in virtual environments. After conducting exploratory data analysis and preprocessing in Python using Jupyter Notebook, I implemented multiple machine learning algorithms including logistic regression, k-nearest neighbors, and random forest classifiers. Model evaluation revealed varying levels of predictive performance, with each algorithm demonstrating distinct strengths and limitations in capturing the complex relationships between features and immersion levels. Visualization of model accuracies highlighted the comparative performance across different approaches. While my analysis provided initial insights into VR user experience factors, the results suggested that a more comprehensive dataset would be beneficial for robust predictions and generalized conclusions about VR immersion patterns. This study contributed to the growing body of research on quantifying and predicting user experiences in virtual reality environments.
+
+Click [here](/projects/Poster URE23_Man Vien.pdf) to explore the detailed research. 
+
